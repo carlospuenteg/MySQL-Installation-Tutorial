@@ -39,10 +39,9 @@ There, go to "local/mysql-8.0.28-macos11-x86_64/bin and click on "Copy "bin" as 
 Open the terminal and type: `open -t .zsh_profile`.
 
 If you don't have that file:
-
-Type `touch .zsh_profile` to create the .zsh_profile and `open -t .zsh_profile` to open the .zsh_profile file:
-
+- Type `touch .zsh_profile` to create the .zsh_profile and `open -t .zsh_profile` to open the .zsh_profile file:
 - On the file, paste `Export PATH=${PATH}:<your-path>` and save the file
-- Now, reopen the Terminal and type `alias mysql=/usr/local/mysql/bin/mysql`
 
-Then type `mysql --user=root -p`
+Now, reopen the Terminal and type `alias mysql=/usr/local/mysql/bin/mysql`
+
+Then type `mysql --user=root -p`, enter your password and now you can start with MySQL
