@@ -16,3 +16,6 @@ In "System Preferences" (on your computer), click on "Start MySQL server"
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/65092569/163597431-172041da-2889-493e-950a-51c25d0ceeaa.png">
 
 ## Use MySQL in Terminal
+- Press <kbd>CMD</kbd>+<kbd>SPACE</kbd> to open Spotlight Search
+- Search "/usr" and click on the "usr" folder
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/65092569/163598090-fa4fb5ea-cefe-4165-afed-8d0dd477f66c.png">
