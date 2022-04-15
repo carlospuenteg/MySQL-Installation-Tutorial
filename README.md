@@ -11,4 +11,4 @@ In the "configuration" step of the installation, establish a password for the "r
 ## Start MySQL server
 In "System Preferences" (on your computer), click on "Start MySQL server"
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/65092569/163597431-172041da-2889-493e-950a-51c25d0ceeaa.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/65092569/163597431-172041da-2889-493e-950a-51c25d0ceeaa.png">
